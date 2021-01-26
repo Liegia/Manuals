@@ -1,1 +1,1 @@
-# My manual collection for reading on the go
+# My manuals and cheat sheets collection for reading on the go
